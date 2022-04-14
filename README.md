@@ -2,23 +2,23 @@
 
 It includes the react ui & JSON-server for our mock backend
 
-# Usage
+## Usage
 
-# Install dependencies
+###### Install dependencies
 
-npm install
+`npm install`
 
-# Run React dev server (http://localhost:3000)
+###### Run React dev server (http://localhost:3000)
 
-npm start
+`npm start`
 
-# Run the JSON server (http://localhost:5000)
+###### Run the JSON server (http://localhost:5000)
 
-npm run server
+`npm run server`
 
-# To build for production
+###### To build for production
 
-npm run build
+`npm run build`
 
  
  

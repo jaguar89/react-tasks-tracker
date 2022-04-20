@@ -12,7 +12,7 @@ It includes the react ui & JSON-server for our mock backend
 
 `npm start`
 
-###### Run the JSON server (http://localhost:5000)
+###### Run the JSON server (http://localhost:8000)
 
 `npm run server`
 

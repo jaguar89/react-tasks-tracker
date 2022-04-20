@@ -10,7 +10,7 @@ It includes the react ui & JSON-server for our mock backend
 
 ###### Run React dev server (http://localhost:3000)
 
-`npm start`
+`npm run start`
 
 ###### Run the JSON server (http://localhost:8000)
 
